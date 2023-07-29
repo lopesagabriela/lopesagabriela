@@ -5,7 +5,7 @@ Estou fazendo alguns cursos livres também para agregar mais conhecimento e dese
 
 
 <div>
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesagabriela&layout-compac&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesagabriela&layout-compac&theme=radical"/>
 </div>
 
 #### Interested and Learning: 
@@ -25,10 +25,8 @@ Estou fazendo alguns cursos livres também para agregar mais conhecimento e dese
   
 </h1>
 
-#### Contatos: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopesagabriela/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gaabys_loopes@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:\\instagram.com/gaabyziin?igshid=NTc4MTIwNjQ2YQ==)
 
 
