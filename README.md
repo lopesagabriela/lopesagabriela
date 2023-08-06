@@ -8,7 +8,6 @@ Estou fazendo alguns cursos livres também para agregar mais conhecimento e dese
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesagabriela&layout-compac&theme=radical"/>
 </div>
 
-### Learning: 
 
 <div>
   <img align="center" alt="Gabriela-html" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
